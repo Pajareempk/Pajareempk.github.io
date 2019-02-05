@@ -22,7 +22,7 @@
 
 
 </head>
-<body bgcolor="#808080"text="#3399FF">
+<body bgcolor="#FF00FF"text="#3399FF">
 <p><a href="#top">Back to top</a></p>
 <p><a href="firstpage.htm">Back to home</a></p>
 </body>
