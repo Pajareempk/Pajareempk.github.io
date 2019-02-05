@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>สวัสดี</title>
+</head>
+<body>
+<BODY background="IMG_123.jpg"></BODY>
+<div align="right"><audio controls autoplay loop>
+	<source src="mpkk3.mp3">
+</audio></div>
+<img src="IMG_6312.jpg" height="200">
+
+<table border="3">
+<tr>
+<th>ประวัติการศึกษา</th>
+</tr>
+<tr>
+<td>โรงเรียนประสาทวิทย์</td>
+</tr>
+<tr>
+<td>โรงเรียนอยุธยาวิทยาลัย</td>
+</tr>
+</table>
+
+<dl>
+<dt><a name="top">กำลังศึกษาอยู่</a></dt>
+<dd>มหาวิทยาลัยราชภัฎพระนครศรีอยุธยา</dd>
+<dd>คณะครุศาสตร์ สาขาคอมพิวเตอร์ศึกษา</dd>
+</dl>
+<dt><a name="top">อาชีพที่ใฝ่ฝัน</a></dt>
+<ul>
+<li>มีแรงบรรดาลใจจากครู</li>
+<li>อยากแบงความรู้ให้กับเด็ก</li>
+</ul>
+
+<p><a href="#top">Back to top</a></p>
+<p><a href="firstpage.htm">Back to home</a></p>
+</body>
+</html>
